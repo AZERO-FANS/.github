@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-This Github organization
+Welcome to the Github organization for Aleph Zero Fans...
 
+We are working to set up a community-led decentralised insfrastructure for the Aleph Zero Network!!
+
+Feel free to join us!!
+
+All the best !!...
 
 <!--
 
